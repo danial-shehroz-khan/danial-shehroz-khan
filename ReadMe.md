@@ -4,25 +4,41 @@
 
 # Machine Learning
 
-## Supervised
+## Supervised(Machine Training with Labelled data)
 ### Regression
 * Linear Regression
-* Logistic Regression
+* Elastic Net(GLM)
+* Decision Tree
+* Random Forest
+* XGBoost
+* K-Nearest Neightbours
+* Support Vector Machine
 ### Classification
 * Decision Tree
 * Random Forests
 * SVM
 * K-NN
+* XGBoost
+* Logistic Regression
   
-## Unsupervised
+## Unsupervised(Machine Training with unlabelled data)
+### Clustering
 * K- Mean Clustering
 * Hierachical Clustering
 * DBSCAN
-  
+### Others
+* PCA
+* Association
+
 ## Deep Learning
-* 
-* 
-# 
+* CNN
+* RNN
+  
+# Reinforcement Learning
+* Qlearning
+* R-Learning
+* TD-Learning
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danialshehroz/) 
