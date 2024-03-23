@@ -4,17 +4,20 @@
 
 # Machine Learning
 
-# Supervised
-* 
-* 
-* 
-* 
-* 
-* 
-# Unsupervised
-* 
-* 
-# Deep Learning
+## Supervised
+* Linear Regression
+* Logistic Regression
+* Decision Tree
+* Random Forests
+* SVM
+* K-NN
+  
+## Unsupervised
+* K- Mean Clustering
+* Hierachical Clustering
+* DBSCAN
+  
+## Deep Learning
 * 
 * 
 # 
