@@ -8,11 +8,11 @@
 ### Regression
 * Linear Regression
 * Logistic Regression
+### Classification
 * Decision Tree
 * Random Forests
 * SVM
 * K-NN
-### Classification
   
 ## Unsupervised
 * K- Mean Clustering
