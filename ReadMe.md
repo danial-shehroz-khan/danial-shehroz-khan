@@ -5,12 +5,14 @@
 # Machine Learning
 
 ## Supervised
+### Regression
 * Linear Regression
 * Logistic Regression
 * Decision Tree
 * Random Forests
 * SVM
 * K-NN
+### Classification
   
 ## Unsupervised
 * K- Mean Clustering
