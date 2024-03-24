@@ -39,6 +39,23 @@
 * R-Learning[IN-Progress]
 * TD-Learning[IN-Progress]
 
+#Certification
+
+# Python
+* Software Engineering for Data Science in Python [https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view]
+* Introduction to Data Science in Python
+* Data Manipulation with Pandas
+* Python Data-Science Toolbox
+* Writing Efficient Python Code
+* Working with Dates and Times in Python
+* Regular Expressions in Python
+* Web Scrapping in Python
+* Writing Function in Python
+* Developing Python Packages
+* Object Orientated Programming in Python
+* Unit Testing for Data Science in Python
+# Pytorch
+# Linux
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danialshehroz/) 
