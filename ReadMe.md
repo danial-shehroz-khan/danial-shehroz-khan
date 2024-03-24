@@ -6,38 +6,38 @@
 
 ## Supervised(Machine Training with Labelled data)
 ### Regression
-* Linear Regression
-* Elastic Net(GLM)
-* Decision Tree
-* Random Forest
-* XGBoost
-* K-Nearest Neightbours
-* Support Vector Machine
+* Linear Regression[IN-Progress]
+* Elastic Net(GLM)[IN-Progress]
+* Decision Tree[IN-Progress]
+* Random Forest[IN-Progress]
+* XGBoost[IN-Progress]
+* K-Nearest Neightbours[IN-Progress]
+* Support Vector Machine[IN-Progress]
 ### Classification
-* Decision Tree
-* Random Forests
-* SVM
-* K-NN
-* XGBoost
-* Logistic Regression
+* Decision Tree[IN-Progress]
+* Random Forests[IN-Progress]
+* SVM[IN-Progress]
+* K-NN[IN-Progress]
+* XGBoost[IN-Progress]
+* Logistic Regression[IN-Progress]
   
 ## Unsupervised(Machine Training with unlabelled data)
 ### Clustering
-* K- Mean Clustering
-* Hierachical Clustering
-* DBSCAN
+* K- Mean Clustering[IN-Progress]
+* Hierachical Clustering[IN-Progress]
+* DBSCAN[IN-Progress]
 ### Others
-* PCA
-* Association
+* PCA[IN-Progress]
+* Association[IN-Progress]
 
 # Deep Learning
-* CNN
-* RNN
+* CNN[IN-Progress]
+* RNN[IN-Progress]
   
 # Reinforcement Learning
-* Qlearning
-* R-Learning
-* TD-Learning
+* Qlearning[IN-Progress]
+* R-Learning[IN-Progress]
+* TD-Learning[IN-Progress]
 
 
 ## 🌐 Socials:
