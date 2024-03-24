@@ -42,20 +42,22 @@
 #Certification
 
 # Python
-* Software Engineering for Data Science in Python [https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view]
-* Introduction to Data Science in Python
-* Data Manipulation with Pandas
-* Python Data-Science Toolbox
-* Writing Efficient Python Code
-* Working with Dates and Times in Python
-* Regular Expressions in Python
-* Web Scrapping in Python
-* Writing Function in Python
-* Developing Python Packages
-* Object Orientated Programming in Python
-* Unit Testing for Data Science in Python
+* Software Engineering for Data Science in Python [Certificate](https://drive.google.com/file/d/17xsdl1VZ4nBAllRITNApJuMpoT1f8lrs/view)
+* Introduction to Data Science in Python [Certificate](https://drive.google.com/file/d/1X2Zk_813CbY2fmWlu-W2chpYMJ2iSkfy/view)
+* Data Manipulation with Pandas [Certificate](https://drive.google.com/drive/folders/14ShOhIusgirxNUeI50fj6krZE9YlbAN3)
+* Python Data-Science Toolbox [Certificate](https://drive.google.com/file/d/1lNIHZyfLLPhqFKtz-9bOnpnm2USz6m4X/view)
+* Writing Efficient Python Code [Certificate](https://drive.google.com/file/d/1lNIHZyfLLPhqFKtz-9bOnpnm2USz6m4X/view)
+* Working with Dates and Times in Python [Certificate](https://drive.google.com/file/d/1tImF1lrdWyQSlxBsSuS1dF4U_Uu5JBje/view)
+* Regular Expressions in Python [Certificate](https://drive.google.com/file/d/14UQuMVSm2bqwpu_dsSSiVR2fozKDEjAB/view)
+* Web Scrapping in Python [Certificate](https://drive.google.com/file/d/12hTo8_oWMOZn19eZwN9RIBOBCKkePScd/view)
+* Writing Function in Python [Certificate](https://drive.google.com/file/d/1SL-7Od5aDs8nX1z25d-7ivk0IN_RxFWY/view)
+* Developing Python Packages [Certificate](https://drive.google.com/file/d/1LHCww7DYB3DbhN0a6jfY_TOc91UsuAXG/view)
+* Object Orientated Programming in Python [Certificate](https://drive.google.com/file/d/1LxV5LHi7OEkV5ueT4DtcFVFTSqC2Ej6K/view)
+* Unit Testing for Data Science in Python [Certificate](https://drive.google.com/file/d/17Rn_hTXY4H7v2xDZop9SyvwrwOgHZXrP/view)
 # Pytorch
+* Deep-Learning with PyTorch[Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
 # Linux
+* Introduction to Shell[Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danialshehroz/) 
