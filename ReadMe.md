@@ -30,7 +30,7 @@
 * PCA
 * Association
 
-## Deep Learning
+# Deep Learning
 * CNN
 * RNN
   
