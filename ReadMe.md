@@ -39,7 +39,7 @@
 * R-Learning[IN-Progress]
 * TD-Learning[IN-Progress]
 
-#Certification
+# Certification
 
 # Python
 * Software Engineering for Data Science in Python [Certificate](https://drive.google.com/file/d/17xsdl1VZ4nBAllRITNApJuMpoT1f8lrs/view)
@@ -55,9 +55,9 @@
 * Object Orientated Programming in Python [Certificate](https://drive.google.com/file/d/1LxV5LHi7OEkV5ueT4DtcFVFTSqC2Ej6K/view)
 * Unit Testing for Data Science in Python [Certificate](https://drive.google.com/file/d/17Rn_hTXY4H7v2xDZop9SyvwrwOgHZXrP/view)
 # Pytorch
-* Deep-Learning with PyTorch[Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
+* Deep-Learning with PyTorch [Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
 # Linux
-* Introduction to Shell[Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
+* Introduction to Shell [Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danialshehroz/) 
