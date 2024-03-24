@@ -41,7 +41,7 @@
 
 # Certification
 
-# Python
+### Python
 * Software Engineering for Data Science in Python [Certificate](https://drive.google.com/file/d/17xsdl1VZ4nBAllRITNApJuMpoT1f8lrs/view)
 * Introduction to Data Science in Python [Certificate](https://drive.google.com/file/d/1X2Zk_813CbY2fmWlu-W2chpYMJ2iSkfy/view)
 * Data Manipulation with Pandas [Certificate](https://drive.google.com/drive/folders/14ShOhIusgirxNUeI50fj6krZE9YlbAN3)
@@ -54,9 +54,9 @@
 * Developing Python Packages [Certificate](https://drive.google.com/file/d/1LHCww7DYB3DbhN0a6jfY_TOc91UsuAXG/view)
 * Object Orientated Programming in Python [Certificate](https://drive.google.com/file/d/1LxV5LHi7OEkV5ueT4DtcFVFTSqC2Ej6K/view)
 * Unit Testing for Data Science in Python [Certificate](https://drive.google.com/file/d/17Rn_hTXY4H7v2xDZop9SyvwrwOgHZXrP/view)
-# Pytorch
+#### Pytorch
 * Deep-Learning with PyTorch [Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
-# Linux
+#### Linux
 * Introduction to Shell [Certificate](https://drive.google.com/file/d/1PWIsZg2RHcIGsG6eLVcp6KVMUN4cc8QU/view)
 
 ## 🌐 Socials:
