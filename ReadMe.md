@@ -2,42 +2,6 @@
 🌱 I'm looking to collaborate on: AI research projects, machine learning algorithms, and applications of artificial intelligence in various domains..<br><br>🤔 I'm looking for help with: Exploring advanced topics in AI, refining my programming skills, and gaining insights from experienced AI professionals.<br><br>💬 I'm currently learning: Advanced machine learning techniques, natural language processing, computer vision, and deep reinforcement learning as part of my AI graduate program. My current project involves applying these skills to tackle real-world challenges in traffic sign recognition.<br><br>📫 Ask me about: My AI research interests, any specific projects or subjects within AI, my experience as an AI graduate student.<br><br>⚡ 
 ![giphy](https://github.com/danial-shehroz-khan/danial-shehroz-khan/assets/62330871/9f617238-59ac-49af-ba0e-b67b81303c3b)
 
-# Machine Learning
-
-## Supervised(Machine Training with Labelled data)
-### Regression
-* Linear Regression[IN-Progress]
-* Elastic Net(GLM)[IN-Progress]
-* Decision Tree[IN-Progress]
-* Random Forest[IN-Progress]
-* XGBoost[IN-Progress]
-* K-Nearest Neightbours[IN-Progress]
-* Support Vector Machine[IN-Progress]
-### Classification
-* Decision Tree[IN-Progress]
-* Random Forests[IN-Progress]
-* SVM[IN-Progress]
-* K-NN[IN-Progress]
-* XGBoost[IN-Progress]
-* Logistic Regression[IN-Progress]
-  
-## Unsupervised(Machine Training with unlabelled data)
-### Clustering
-* K- Mean Clustering[IN-Progress]
-* Hierachical Clustering[IN-Progress]
-* DBSCAN[IN-Progress]
-### Others
-* PCA[IN-Progress]
-* Association[IN-Progress]
-
-# Deep Learning
-* CNN[IN-Progress]
-* RNN[IN-Progress]
-  
-# Reinforcement Learning
-* Qlearning[IN-Progress]
-* R-Learning[IN-Progress]
-* TD-Learning[IN-Progress]
 
 # Certification
 
