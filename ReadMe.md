@@ -23,7 +23,11 @@ Exploring advanced topics in agentic AI, reinforcement learning, and large-scale
 AI system design, computer vision on the edge, agentic AI, and my experience developing embedded ML pipelines.
 
 ### 📫 How to reach me
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your@email.com)
+[💼 LinkedIn](https://www.linkedin.com/in/danialshehroz/) • [📧 Email](mailto:daniel.sabir.khan@gmail.com)
+
+---
+
+⚡ *Let’s connect if you’re working on cutting-edge AI agents, autonomy, or embedded machine intelligence projects!*
 
 ---
 
