@@ -1,5 +1,34 @@
-# 💫 About Me:
-🌱 I'm looking to collaborate on: AI research projects, machine learning algorithms, and applications of artificial intelligence in various domains..<br><br>🤔 I'm looking for help with: Exploring advanced topics in AI, refining my programming skills, and gaining insights from experienced AI professionals.<br><br>💬 I'm currently learning: Advanced machine learning techniques, natural language processing, computer vision, and deep reinforcement learning as part of my AI graduate program. My current project involves applying these skills to tackle real-world challenges in traffic sign recognition.<br><br>📫 Ask me about: My AI research interests, any specific projects or subjects within AI, my experience as an AI graduate student.<br><br>⚡ 
+# 👋 Hi there! I'm Daniel
+
+🔍 With **6 years of experience** in AI engineering and intelligent systems, I’m focused on **agentic AI**, **edge computing**, and **real-world ML & CV applications**.
+
+🎯 **Master’s in Artificial Intelligence (University of Paris-Saclay)** — developing and optimizing AI-driven systems.  
+Expert in **classification**, **forecasting**, **anomaly detection**, **semantic segmentation**, and **multimodal learning**.
+
+💻 Skilled in **Python**, **PyTorch**, **TensorFlow**, and **C++**; experienced with **embedded environments**, **NVIDIA Jetson series**, and **deploying AI on the edge**.
+
+☁️ Proficient in **cloud & MLOps infrastructure** — **Azure**, **GCP**, **Docker**, **Linux**, **Git**, **MLFlow**, **DVC** — building scalable, production-ready AI pipelines.
+
+🌐 Passionate about **agentic AI roles**: building autonomous, goal-oriented systems and intelligent agents that can make decisions, adapt, and act in complex environments.
+
+---
+
+### 🌱 I’m looking to collaborate on
+AI research projects, intelligent agent architectures, and real-world machine learning systems.
+
+### 🤝 I’m looking for help with
+Exploring advanced topics in agentic AI, reinforcement learning, and large-scale multimodal systems.
+
+### 💬 Ask me about
+AI system design, computer vision on the edge, agentic AI, and my experience developing embedded ML pipelines.
+
+### 📫 How to reach me
+[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your@email.com)
+
+---
+
+⚡ *Let’s connect if you’re working on cutting-edge AI agents, autonomy, or embedded machine intelligence projects!*
+
 ![giphy](https://github.com/danial-shehroz-khan/danial-shehroz-khan/assets/62330871/9f617238-59ac-49af-ba0e-b67b81303c3b)
 
 
